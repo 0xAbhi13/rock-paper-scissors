@@ -16,10 +16,6 @@
 
 ---
 
-Rock Paper Scissors by **Abhishek Jadhav** — Web Developer and first-year BCA student at VIIT, Baramati. Built with **HTML5 + CSS3 + Vanilla JavaScript**: a responsive, accessible Rock Paper Scissors game where you play against the computer, with live scoring, round tracking, and reset. No frameworks, no build step, no backend.
-
-> **Internship attribution:** 45-day Web Development Internship at **Veda Technology** — Day 24: Rock Paper Scissors (Level 1).
-
 ## Features
 
 - **Three choice buttons:** Rock 🪨, Paper 📄, Scissors ✂️.
@@ -68,23 +64,6 @@ Quick syntax check:
 ```powershell
 node --check script.js
 ```
-
-## Testing Checklist
-
-- [x] All three player choices work.
-- [x] Rock vs Rock, Paper vs Paper, Scissors vs Scissors are draws.
-- [x] All six winning combinations resolve correctly.
-- [x] Score updates correctly after each round.
-- [x] Round counter increments exactly once per round.
-- [x] Reset clears all scores and the round counter.
-- [x] Layout works at 320px, 375px, 768px, 1024px+.
-- [x] No JavaScript console errors.
-- [x] All files linked correctly; no backend or external API.
-
-## Limitations
-
-- No multiplayer / online mode.
-- Computer choice is uniformly random (no AI difficulty).
 
 ---
 
